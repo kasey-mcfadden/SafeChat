@@ -16,6 +16,14 @@ Codebase for Team 2, winner of 2018 VINE Innovation Challenge
 
 ------
 
+## Demo Videos
+
+[Academic Context Demo](https://drive.google.com/file/d/1sYojogOwENroZwGfyszMS4I8V22fZdmP/view?usp=sharing)
+
+[Dating Context Demo](https://drive.google.com/file/d/1e95CS3PoCqch5SrClrj3eBz9L0nO0ZMi/view?usp=sharing)
+
+------
+
 ## Requirements
 
 1. Python 3
