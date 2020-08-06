@@ -4,15 +4,7 @@
 
 Codebase for Team 2, winner of 2018 VINE Innovation Challenge
 
-[Kasey McFadden](https://www.linkedin.com/in/kaseymcfadden/)
-
-[Christine Mauro](https://www.linkedin.com/in/christine-mauro/)
-
-[Matthew Lu](https://www.linkedin.com/in/matt-lu/)
-
-[Regine Lewis](https://www.linkedin.com/in/regine-lewis-2a902310a/)
-
-[Ashna Momin](https://www.linkedin.com/in/ashna-momin-55a490141/)
+[Kasey McFadden](https://www.linkedin.com/in/kaseymcfadden/), [Christine Mauro](https://www.linkedin.com/in/christine-mauro/), [Matthew Lu](https://www.linkedin.com/in/matt-lu/), [Regine Lewis](https://www.linkedin.com/in/regine-lewis-2a902310a/), [Ashna Momin](https://www.linkedin.com/in/ashna-momin-55a490141/)
 
 ------
 
